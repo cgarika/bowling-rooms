@@ -1,0 +1,326 @@
+{
+ "event": "state",
+ "payload": {
+  "room": {
+   "code": "XXXHDK",
+   "status": "rolloff",
+   "v": 17,
+   "now": 1790406222740,
+   "log": "Roll-off! Cy v Di: one ball each, most pins wins.",
+   "players": [
+    {
+     "name": "Cy",
+     "avatar": "😎",
+     "color": "#ff5757",
+     "bot": false,
+     "skill": null,
+     "botControlled": false,
+     "left": false,
+     "connected": true,
+     "bumpers": false,
+     "lefty": false,
+     "ball": "solid",
+     "timeouts": 0
+    },
+    {
+     "name": "Di",
+     "avatar": "🤓",
+     "color": "#33d17a",
+     "bot": false,
+     "skill": null,
+     "botControlled": false,
+     "left": false,
+     "connected": true,
+     "bumpers": false,
+     "lefty": false,
+     "ball": "swirl",
+     "timeouts": 0
+    }
+   ],
+   "hostSeat": 0,
+   "minPlayers": 2,
+   "maxPlayers": 8,
+   "frames": 3,
+   "settings": {
+    "frames": 3,
+    "rolloff": true,
+    "suggested": 10,
+    "touched": true
+   },
+   "frame": 3,
+   "ball": 1,
+   "turn": 0,
+   "fresh": true,
+   "rack": [
+    [
+     1,
+     0,
+     18288,
+     0
+    ],
+    [
+     2,
+     -152,
+     18552,
+     0
+    ],
+    [
+     3,
+     152,
+     18552,
+     0
+    ],
+    [
+     4,
+     -305,
+     18816,
+     0
+    ],
+    [
+     5,
+     0,
+     18816,
+     0
+    ],
+    [
+     6,
+     305,
+     18816,
+     0
+    ],
+    [
+     7,
+     -457,
+     19080,
+     0
+    ],
+    [
+     8,
+     -152,
+     19080,
+     0
+    ],
+    [
+     9,
+     152,
+     19080,
+     0
+    ],
+    [
+     10,
+     457,
+     19080,
+     0
+    ]
+   ],
+   "throwSeq": 12,
+   "pending": false,
+   "readyAt": 1790406222740,
+   "turnEndsAt": 1790406822740,
+   "sheets": [
+    {
+     "balls": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+     ],
+     "frames": [
+      {
+       "marks": [
+        "-",
+        "-"
+       ],
+       "cum": 0,
+       "split": [
+        false,
+        false
+       ]
+      },
+      {
+       "marks": [
+        "-",
+        "-"
+       ],
+       "cum": 0,
+       "split": [
+        false,
+        false
+       ]
+      },
+      {
+       "marks": [
+        "-",
+        "-"
+       ],
+       "cum": 0,
+       "split": [
+        false,
+        false
+       ]
+      }
+     ],
+     "total": 0
+    },
+    {
+     "balls": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+     ],
+     "frames": [
+      {
+       "marks": [
+        "-",
+        "-"
+       ],
+       "cum": 0,
+       "split": [
+        false,
+        false
+       ]
+      },
+      {
+       "marks": [
+        "-",
+        "-"
+       ],
+       "cum": 0,
+       "split": [
+        false,
+        false
+       ]
+      },
+      {
+       "marks": [
+        "-",
+        "-"
+       ],
+       "cum": 0,
+       "split": [
+        false,
+        false
+       ]
+      }
+     ],
+     "total": 0
+    }
+   ],
+   "totals": [
+    0,
+    0
+   ],
+   "lastThrow": {
+    "id": 84,
+    "n": 12,
+    "seat": 1,
+    "frame": 3,
+    "ball": 2,
+    "at": 1790406222740,
+    "playMs": 3048,
+    "kind": "human",
+    "rolloff": false,
+    "fresh": false,
+    "release": {
+     "x": 4000,
+     "angle": 3500,
+     "speed": 7000,
+     "spin": 0
+    },
+    "down": [],
+    "standing": [
+     [
+      1,
+      0,
+      18287,
+      1372
+     ],
+     [
+      2,
+      -153,
+      18551,
+      1880
+     ],
+     [
+      3,
+      153,
+      18553,
+      3667
+     ],
+     [
+      4,
+      -305,
+      18816,
+      3381
+     ],
+     [
+      5,
+      1,
+      18817,
+      752
+     ],
+     [
+      6,
+      304,
+      18817,
+      2401
+     ],
+     [
+      7,
+      -457,
+      19081,
+      2375
+     ],
+     [
+      8,
+      -151,
+      19080,
+      4492
+     ],
+     [
+      9,
+      153,
+      19081,
+      3410
+     ],
+     [
+      10,
+      457,
+      19081,
+      5985
+     ]
+    ],
+    "count": 0,
+    "call": "gutter",
+    "streak": 0,
+    "leave": "1-2-3-4-5-6-7-8-9-10",
+    "split": false,
+    "replay": false,
+    "gutter": true,
+    "bumpers": false,
+    "mph": 15.7,
+    "entryBoard": null,
+    "entryAngle": null
+   },
+   "rolloff": {
+    "round": 1,
+    "seats": [
+     0,
+     1
+    ],
+    "balls": [],
+    "history": []
+   },
+   "winners": [],
+   "winner": -1,
+   "chat": [],
+   "voice": []
+  },
+  "mySeat": 0
+ }
+}

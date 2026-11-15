@@ -1,0 +1,700 @@
+{
+ "event": "state",
+ "payload": {
+  "room": {
+   "code": "6JTZWD",
+   "status": "playing",
+   "v": 70,
+   "now": 1790406222214,
+   "log": "Lucky: 0 pins.",
+   "players": [
+    {
+     "name": "Ava",
+     "avatar": "a03",
+     "color": "#ff5757",
+     "bot": false,
+     "skill": null,
+     "botControlled": false,
+     "left": false,
+     "connected": true,
+     "bumpers": false,
+     "lefty": false,
+     "ball": "solid",
+     "timeouts": 0
+    },
+    {
+     "name": "Mo",
+     "avatar": "🤓",
+     "color": "#33d17a",
+     "bot": false,
+     "skill": null,
+     "botControlled": false,
+     "left": false,
+     "connected": true,
+     "bumpers": true,
+     "lefty": true,
+     "ball": "flame",
+     "timeouts": 0
+    },
+    {
+     "name": "Kingpin",
+     "avatar": "🤖",
+     "color": "#ffc233",
+     "bot": true,
+     "skill": "regular",
+     "botControlled": false,
+     "left": false,
+     "connected": true,
+     "bumpers": false,
+     "lefty": false,
+     "ball": "pearl",
+     "timeouts": 0
+    },
+    {
+     "name": "Lucky",
+     "avatar": "🤖",
+     "color": "#5b8cff",
+     "bot": true,
+     "skill": "rookie",
+     "botControlled": false,
+     "left": false,
+     "connected": true,
+     "bumpers": false,
+     "lefty": false,
+     "ball": "marble",
+     "timeouts": 0
+    }
+   ],
+   "hostSeat": 0,
+   "minPlayers": 2,
+   "maxPlayers": 8,
+   "frames": 10,
+   "settings": {
+    "frames": 10,
+    "rolloff": true,
+    "suggested": 5,
+    "touched": true
+   },
+   "frame": 10,
+   "ball": 1,
+   "turn": 0,
+   "fresh": true,
+   "rack": [
+    [
+     1,
+     0,
+     18288,
+     0
+    ],
+    [
+     2,
+     -152,
+     18552,
+     0
+    ],
+    [
+     3,
+     152,
+     18552,
+     0
+    ],
+    [
+     4,
+     -305,
+     18816,
+     0
+    ],
+    [
+     5,
+     0,
+     18816,
+     0
+    ],
+    [
+     6,
+     305,
+     18816,
+     0
+    ],
+    [
+     7,
+     -457,
+     19080,
+     0
+    ],
+    [
+     8,
+     -152,
+     19080,
+     0
+    ],
+    [
+     9,
+     152,
+     19080,
+     0
+    ],
+    [
+     10,
+     457,
+     19080,
+     0
+    ]
+   ],
+   "throwSeq": 62,
+   "pending": false,
+   "readyAt": 1790406222210,
+   "turnEndsAt": 1790406822214,
+   "sheets": [
+    {
+     "balls": [
+      10,
+      10,
+      10,
+      10,
+      10,
+      10,
+      10,
+      10,
+      10
+     ],
+     "frames": [
+      {
+       "marks": [
+        "X"
+       ],
+       "cum": 30,
+       "split": [
+        false
+       ]
+      },
+      {
+       "marks": [
+        "X"
+       ],
+       "cum": 60,
+       "split": [
+        false
+       ]
+      },
+      {
+       "marks": [
+        "X"
+       ],
+       "cum": 90,
+       "split": [
+        false
+       ]
+      },
+      {
+       "marks": [
+        "X"
+       ],
+       "cum": 120,
+       "split": [
+        false
+       ]
+      },
+      {
+       "marks": [
+        "X"
+       ],
+       "cum": 150,
+       "split": [
+        false
+       ]
+      },
+      {
+       "marks": [
+        "X"
+       ],
+       "cum": 180,
+       "split": [
+        false
+       ]
+      },
+      {
+       "marks": [
+        "X"
+       ],
+       "cum": 210,
+       "split": [
+        false
+       ]
+      },
+      {
+       "marks": [
+        "X"
+       ],
+       "cum": null,
+       "split": [
+        false
+       ]
+      },
+      {
+       "marks": [
+        "X"
+       ],
+       "cum": null,
+       "split": [
+        false
+       ]
+      },
+      {
+       "marks": [],
+       "cum": null,
+       "split": []
+      }
+     ],
+     "total": 210
+    },
+    {
+     "balls": [
+      5,
+      2,
+      9,
+      0,
+      7,
+      0,
+      7,
+      1,
+      7,
+      2,
+      7,
+      1,
+      9,
+      0,
+      7,
+      0,
+      9,
+      0
+     ],
+     "frames": [
+      {
+       "marks": [
+        "5",
+        "2"
+       ],
+       "cum": 7,
+       "split": [
+        false,
+        false
+       ]
+      },
+      {
+       "marks": [
+        "9",
+        "-"
+       ],
+       "cum": 16,
+       "split": [
+        false,
+        false
+       ]
+      },
+      {
+       "marks": [
+        "7",
+        "-"
+       ],
+       "cum": 23,
+       "split": [
+        false,
+        false
+       ]
+      },
+      {
+       "marks": [
+        "7",
+        "1"
+       ],
+       "cum": 31,
+       "split": [
+        false,
+        false
+       ]
+      },
+      {
+       "marks": [
+        "7",
+        "2"
+       ],
+       "cum": 40,
+       "split": [
+        true,
+        false
+       ]
+      },
+      {
+       "marks": [
+        "7",
+        "1"
+       ],
+       "cum": 48,
+       "split": [
+        false,
+        false
+       ]
+      },
+      {
+       "marks": [
+        "9",
+        "-"
+       ],
+       "cum": 57,
+       "split": [
+        false,
+        false
+       ]
+      },
+      {
+       "marks": [
+        "7",
+        "-"
+       ],
+       "cum": 64,
+       "split": [
+        false,
+        false
+       ]
+      },
+      {
+       "marks": [
+        "9",
+        "-"
+       ],
+       "cum": 73,
+       "split": [
+        false,
+        false
+       ]
+      },
+      {
+       "marks": [],
+       "cum": null,
+       "split": []
+      }
+     ],
+     "total": 73
+    },
+    {
+     "balls": [
+      7,
+      0,
+      9,
+      0,
+      5,
+      5,
+      7,
+      3,
+      8,
+      1,
+      8,
+      1,
+      7,
+      0,
+      10,
+      5,
+      2
+     ],
+     "frames": [
+      {
+       "marks": [
+        "7",
+        "-"
+       ],
+       "cum": 7,
+       "split": [
+        false,
+        false
+       ]
+      },
+      {
+       "marks": [
+        "9",
+        "-"
+       ],
+       "cum": 16,
+       "split": [
+        false,
+        false
+       ]
+      },
+      {
+       "marks": [
+        "5",
+        "/"
+       ],
+       "cum": 33,
+       "split": [
+        false,
+        false
+       ]
+      },
+      {
+       "marks": [
+        "7",
+        "/"
+       ],
+       "cum": 51,
+       "split": [
+        false,
+        false
+       ]
+      },
+      {
+       "marks": [
+        "8",
+        "1"
+       ],
+       "cum": 60,
+       "split": [
+        false,
+        false
+       ]
+      },
+      {
+       "marks": [
+        "8",
+        "1"
+       ],
+       "cum": 69,
+       "split": [
+        true,
+        false
+       ]
+      },
+      {
+       "marks": [
+        "7",
+        "-"
+       ],
+       "cum": 76,
+       "split": [
+        false,
+        false
+       ]
+      },
+      {
+       "marks": [
+        "X"
+       ],
+       "cum": 93,
+       "split": [
+        false
+       ]
+      },
+      {
+       "marks": [
+        "5",
+        "2"
+       ],
+       "cum": 100,
+       "split": [
+        false,
+        false
+       ]
+      },
+      {
+       "marks": [],
+       "cum": null,
+       "split": []
+      }
+     ],
+     "total": 100
+    },
+    {
+     "balls": [
+      7,
+      3,
+      7,
+      1,
+      0,
+      8,
+      6,
+      0,
+      3,
+      6,
+      7,
+      0,
+      8,
+      1,
+      9,
+      1,
+      7,
+      0
+     ],
+     "frames": [
+      {
+       "marks": [
+        "7",
+        "/"
+       ],
+       "cum": 17,
+       "split": [
+        false,
+        false
+       ]
+      },
+      {
+       "marks": [
+        "7",
+        "1"
+       ],
+       "cum": 25,
+       "split": [
+        false,
+        false
+       ]
+      },
+      {
+       "marks": [
+        "-",
+        "8"
+       ],
+       "cum": 33,
+       "split": [
+        false,
+        false
+       ]
+      },
+      {
+       "marks": [
+        "6",
+        "-"
+       ],
+       "cum": 39,
+       "split": [
+        false,
+        false
+       ]
+      },
+      {
+       "marks": [
+        "3",
+        "6"
+       ],
+       "cum": 48,
+       "split": [
+        false,
+        false
+       ]
+      },
+      {
+       "marks": [
+        "7",
+        "-"
+       ],
+       "cum": 55,
+       "split": [
+        false,
+        false
+       ]
+      },
+      {
+       "marks": [
+        "8",
+        "1"
+       ],
+       "cum": 64,
+       "split": [
+        false,
+        false
+       ]
+      },
+      {
+       "marks": [
+        "9",
+        "/"
+       ],
+       "cum": 81,
+       "split": [
+        false,
+        false
+       ]
+      },
+      {
+       "marks": [
+        "7",
+        "-"
+       ],
+       "cum": 88,
+       "split": [
+        false,
+        false
+       ]
+      },
+      {
+       "marks": [],
+       "cum": null,
+       "split": []
+      }
+     ],
+     "total": 88
+    }
+   ],
+   "totals": [
+    210,
+    73,
+    100,
+    88
+   ],
+   "lastThrow": {
+    "id": 62,
+    "n": 62,
+    "seat": 3,
+    "frame": 9,
+    "ball": 2,
+    "at": 1790406222210,
+    "playMs": 3092,
+    "kind": "bot",
+    "rolloff": false,
+    "fresh": false,
+    "release": {
+     "x": 570,
+     "angle": -642,
+     "speed": 7436,
+     "spin": 332
+    },
+    "down": [],
+    "standing": [
+     [
+      1,
+      -1,
+      18288,
+      5581
+     ],
+     [
+      2,
+      -152,
+      18554,
+      4901
+     ],
+     [
+      8,
+      -154,
+      19083,
+      1628
+     ]
+    ],
+    "count": 0,
+    "call": "count",
+    "streak": 0,
+    "leave": "1-2-8",
+    "split": false,
+    "replay": false,
+    "gutter": false,
+    "bumpers": false,
+    "mph": 16.6,
+    "entryBoard": 33.2,
+    "entryAngle": 3
+   },
+   "rolloff": null,
+   "winners": [],
+   "winner": -1,
+   "chat": [],
+   "voice": []
+  },
+  "mySeat": 0
+ }
+}

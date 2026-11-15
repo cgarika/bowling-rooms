@@ -1,0 +1,176 @@
+{
+ "event": "state",
+ "payload": {
+  "room": {
+   "code": "6JTZWD",
+   "status": "lobby",
+   "v": 2,
+   "now": 1790406220167,
+   "log": "Share the code with your friends.",
+   "players": [
+    {
+     "name": "Ava",
+     "avatar": "a03",
+     "color": "#ff5757",
+     "bot": false,
+     "skill": null,
+     "botControlled": false,
+     "left": false,
+     "connected": true,
+     "bumpers": false,
+     "lefty": false,
+     "ball": "solid",
+     "timeouts": 0
+    }
+   ],
+   "hostSeat": 0,
+   "minPlayers": 2,
+   "maxPlayers": 8,
+   "frames": 10,
+   "settings": {
+    "frames": 10,
+    "rolloff": true,
+    "suggested": 10,
+    "touched": false
+   },
+   "frame": 1,
+   "ball": 1,
+   "turn": 0,
+   "fresh": true,
+   "rack": [
+    [
+     1,
+     0,
+     18288,
+     0
+    ],
+    [
+     2,
+     -152,
+     18552,
+     0
+    ],
+    [
+     3,
+     152,
+     18552,
+     0
+    ],
+    [
+     4,
+     -305,
+     18816,
+     0
+    ],
+    [
+     5,
+     0,
+     18816,
+     0
+    ],
+    [
+     6,
+     305,
+     18816,
+     0
+    ],
+    [
+     7,
+     -457,
+     19080,
+     0
+    ],
+    [
+     8,
+     -152,
+     19080,
+     0
+    ],
+    [
+     9,
+     152,
+     19080,
+     0
+    ],
+    [
+     10,
+     457,
+     19080,
+     0
+    ]
+   ],
+   "throwSeq": 0,
+   "pending": false,
+   "readyAt": null,
+   "turnEndsAt": null,
+   "sheets": [
+    {
+     "balls": [],
+     "frames": [
+      {
+       "marks": [],
+       "cum": null,
+       "split": []
+      },
+      {
+       "marks": [],
+       "cum": null,
+       "split": []
+      },
+      {
+       "marks": [],
+       "cum": null,
+       "split": []
+      },
+      {
+       "marks": [],
+       "cum": null,
+       "split": []
+      },
+      {
+       "marks": [],
+       "cum": null,
+       "split": []
+      },
+      {
+       "marks": [],
+       "cum": null,
+       "split": []
+      },
+      {
+       "marks": [],
+       "cum": null,
+       "split": []
+      },
+      {
+       "marks": [],
+       "cum": null,
+       "split": []
+      },
+      {
+       "marks": [],
+       "cum": null,
+       "split": []
+      },
+      {
+       "marks": [],
+       "cum": null,
+       "split": []
+      }
+     ],
+     "total": 0
+    }
+   ],
+   "totals": [
+    0
+   ],
+   "lastThrow": null,
+   "rolloff": null,
+   "winners": [],
+   "winner": -1,
+   "chat": [],
+   "voice": []
+  },
+  "mySeat": 0
+ }
+}

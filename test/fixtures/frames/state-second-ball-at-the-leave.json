@@ -1,0 +1,438 @@
+{
+ "event": "state",
+ "payload": {
+  "room": {
+   "code": "6JTZWD",
+   "status": "playing",
+   "v": 10,
+   "now": 1790406220669,
+   "log": "Mo: 5 pins.",
+   "players": [
+    {
+     "name": "Ava",
+     "avatar": "a03",
+     "color": "#ff5757",
+     "bot": false,
+     "skill": null,
+     "botControlled": false,
+     "left": false,
+     "connected": true,
+     "bumpers": false,
+     "lefty": false,
+     "ball": "solid",
+     "timeouts": 0
+    },
+    {
+     "name": "Mo",
+     "avatar": "🤓",
+     "color": "#33d17a",
+     "bot": false,
+     "skill": null,
+     "botControlled": false,
+     "left": false,
+     "connected": true,
+     "bumpers": true,
+     "lefty": true,
+     "ball": "flame",
+     "timeouts": 0
+    },
+    {
+     "name": "Kingpin",
+     "avatar": "🤖",
+     "color": "#ffc233",
+     "bot": true,
+     "skill": "regular",
+     "botControlled": false,
+     "left": false,
+     "connected": true,
+     "bumpers": false,
+     "lefty": false,
+     "ball": "pearl",
+     "timeouts": 0
+    },
+    {
+     "name": "Lucky",
+     "avatar": "🤖",
+     "color": "#5b8cff",
+     "bot": true,
+     "skill": "rookie",
+     "botControlled": false,
+     "left": false,
+     "connected": true,
+     "bumpers": false,
+     "lefty": false,
+     "ball": "marble",
+     "timeouts": 0
+    }
+   ],
+   "hostSeat": 0,
+   "minPlayers": 2,
+   "maxPlayers": 8,
+   "frames": 10,
+   "settings": {
+    "frames": 10,
+    "rolloff": true,
+    "suggested": 5,
+    "touched": true
+   },
+   "frame": 1,
+   "ball": 2,
+   "turn": 1,
+   "fresh": false,
+   "rack": [
+    [
+     2,
+     -153,
+     18552,
+     2237
+    ],
+    [
+     4,
+     -305,
+     18817,
+     5553
+    ],
+    [
+     5,
+     1,
+     18817,
+     4816
+    ],
+    [
+     7,
+     -459,
+     19079,
+     1646
+    ],
+    [
+     8,
+     -153,
+     19079,
+     1600
+    ]
+   ],
+   "throwSeq": 2,
+   "pending": false,
+   "readyAt": 1790406220647,
+   "turnEndsAt": 1790406820668,
+   "sheets": [
+    {
+     "balls": [
+      10
+     ],
+     "frames": [
+      {
+       "marks": [
+        "X"
+       ],
+       "cum": null,
+       "split": [
+        false
+       ]
+      },
+      {
+       "marks": [],
+       "cum": null,
+       "split": []
+      },
+      {
+       "marks": [],
+       "cum": null,
+       "split": []
+      },
+      {
+       "marks": [],
+       "cum": null,
+       "split": []
+      },
+      {
+       "marks": [],
+       "cum": null,
+       "split": []
+      },
+      {
+       "marks": [],
+       "cum": null,
+       "split": []
+      },
+      {
+       "marks": [],
+       "cum": null,
+       "split": []
+      },
+      {
+       "marks": [],
+       "cum": null,
+       "split": []
+      },
+      {
+       "marks": [],
+       "cum": null,
+       "split": []
+      },
+      {
+       "marks": [],
+       "cum": null,
+       "split": []
+      }
+     ],
+     "total": 0
+    },
+    {
+     "balls": [
+      5
+     ],
+     "frames": [
+      {
+       "marks": [
+        "5"
+       ],
+       "cum": null,
+       "split": [
+        false
+       ]
+      },
+      {
+       "marks": [],
+       "cum": null,
+       "split": []
+      },
+      {
+       "marks": [],
+       "cum": null,
+       "split": []
+      },
+      {
+       "marks": [],
+       "cum": null,
+       "split": []
+      },
+      {
+       "marks": [],
+       "cum": null,
+       "split": []
+      },
+      {
+       "marks": [],
+       "cum": null,
+       "split": []
+      },
+      {
+       "marks": [],
+       "cum": null,
+       "split": []
+      },
+      {
+       "marks": [],
+       "cum": null,
+       "split": []
+      },
+      {
+       "marks": [],
+       "cum": null,
+       "split": []
+      },
+      {
+       "marks": [],
+       "cum": null,
+       "split": []
+      }
+     ],
+     "total": 0
+    },
+    {
+     "balls": [],
+     "frames": [
+      {
+       "marks": [],
+       "cum": null,
+       "split": []
+      },
+      {
+       "marks": [],
+       "cum": null,
+       "split": []
+      },
+      {
+       "marks": [],
+       "cum": null,
+       "split": []
+      },
+      {
+       "marks": [],
+       "cum": null,
+       "split": []
+      },
+      {
+       "marks": [],
+       "cum": null,
+       "split": []
+      },
+      {
+       "marks": [],
+       "cum": null,
+       "split": []
+      },
+      {
+       "marks": [],
+       "cum": null,
+       "split": []
+      },
+      {
+       "marks": [],
+       "cum": null,
+       "split": []
+      },
+      {
+       "marks": [],
+       "cum": null,
+       "split": []
+      },
+      {
+       "marks": [],
+       "cum": null,
+       "split": []
+      }
+     ],
+     "total": 0
+    },
+    {
+     "balls": [],
+     "frames": [
+      {
+       "marks": [],
+       "cum": null,
+       "split": []
+      },
+      {
+       "marks": [],
+       "cum": null,
+       "split": []
+      },
+      {
+       "marks": [],
+       "cum": null,
+       "split": []
+      },
+      {
+       "marks": [],
+       "cum": null,
+       "split": []
+      },
+      {
+       "marks": [],
+       "cum": null,
+       "split": []
+      },
+      {
+       "marks": [],
+       "cum": null,
+       "split": []
+      },
+      {
+       "marks": [],
+       "cum": null,
+       "split": []
+      },
+      {
+       "marks": [],
+       "cum": null,
+       "split": []
+      },
+      {
+       "marks": [],
+       "cum": null,
+       "split": []
+      },
+      {
+       "marks": [],
+       "cum": null,
+       "split": []
+      }
+     ],
+     "total": 0
+    }
+   ],
+   "totals": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "lastThrow": {
+    "id": 2,
+    "n": 2,
+    "seat": 1,
+    "frame": 1,
+    "ball": 1,
+    "at": 1790406220647,
+    "playMs": 3710,
+    "kind": "human",
+    "rolloff": false,
+    "fresh": true,
+    "release": {
+     "x": 3800,
+     "angle": 3400,
+     "speed": 7000,
+     "spin": 0
+    },
+    "down": [
+     1,
+     3,
+     6,
+     9,
+     10
+    ],
+    "standing": [
+     [
+      2,
+      -153,
+      18552,
+      2237
+     ],
+     [
+      4,
+      -305,
+      18817,
+      5553
+     ],
+     [
+      5,
+      1,
+      18817,
+      4816
+     ],
+     [
+      7,
+      -459,
+      19079,
+      1646
+     ],
+     [
+      8,
+      -153,
+      19079,
+      1600
+     ]
+    ],
+    "count": 5,
+    "call": "count",
+    "streak": 0,
+    "leave": "2-4-5-7-8",
+    "split": false,
+    "replay": false,
+    "gutter": false,
+    "bumpers": true,
+    "mph": 15.7,
+    "entryBoard": 14.1,
+    "entryAngle": -0.9
+   },
+   "rolloff": null,
+   "winners": [],
+   "winner": -1,
+   "chat": [],
+   "voice": []
+  },
+  "mySeat": 0
+ }
+}

@@ -1,0 +1,356 @@
+{
+ "event": "state",
+ "payload": {
+  "room": {
+   "code": "6SYK69",
+   "status": "playing",
+   "v": 14,
+   "now": 1790406241464,
+   "log": "Fox ran out of time 3 times; a bot is bowling for them. Fox leaves the 4-10 split.",
+   "players": [
+    {
+     "name": "Eve",
+     "avatar": "😎",
+     "color": "#ff5757",
+     "bot": false,
+     "skill": null,
+     "botControlled": false,
+     "left": false,
+     "connected": true,
+     "bumpers": false,
+     "lefty": false,
+     "ball": "solid",
+     "timeouts": 0
+    },
+    {
+     "name": "Fox",
+     "avatar": "🤓",
+     "color": "#33d17a",
+     "bot": false,
+     "skill": null,
+     "botControlled": true,
+     "left": false,
+     "connected": false,
+     "bumpers": false,
+     "lefty": false,
+     "ball": "swirl",
+     "timeouts": 3
+    },
+    {
+     "name": "Kingpin",
+     "avatar": "🤖",
+     "color": "#ffc233",
+     "bot": true,
+     "skill": "regular",
+     "botControlled": false,
+     "left": false,
+     "connected": true,
+     "bumpers": false,
+     "lefty": false,
+     "ball": "pearl",
+     "timeouts": 0
+    }
+   ],
+   "hostSeat": 0,
+   "minPlayers": 2,
+   "maxPlayers": 8,
+   "frames": 10,
+   "settings": {
+    "frames": 10,
+    "rolloff": true,
+    "suggested": 10,
+    "touched": true
+   },
+   "frame": 2,
+   "ball": 2,
+   "turn": 1,
+   "fresh": false,
+   "rack": [
+    [
+     4,
+     -304,
+     18815,
+     4528
+    ],
+    [
+     10,
+     457,
+     19079,
+     1824
+    ]
+   ],
+   "throwSeq": 7,
+   "pending": false,
+   "readyAt": 1790406241422,
+   "turnEndsAt": 1790406841464,
+   "sheets": [
+    {
+     "balls": [
+      10,
+      10
+     ],
+     "frames": [
+      {
+       "marks": [
+        "X"
+       ],
+       "cum": null,
+       "split": [
+        false
+       ]
+      },
+      {
+       "marks": [
+        "X"
+       ],
+       "cum": null,
+       "split": [
+        false
+       ]
+      },
+      {
+       "marks": [],
+       "cum": null,
+       "split": []
+      },
+      {
+       "marks": [],
+       "cum": null,
+       "split": []
+      },
+      {
+       "marks": [],
+       "cum": null,
+       "split": []
+      },
+      {
+       "marks": [],
+       "cum": null,
+       "split": []
+      },
+      {
+       "marks": [],
+       "cum": null,
+       "split": []
+      },
+      {
+       "marks": [],
+       "cum": null,
+       "split": []
+      },
+      {
+       "marks": [],
+       "cum": null,
+       "split": []
+      },
+      {
+       "marks": [],
+       "cum": null,
+       "split": []
+      }
+     ],
+     "total": 0
+    },
+    {
+     "balls": [
+      9,
+      0,
+      8
+     ],
+     "frames": [
+      {
+       "marks": [
+        "9",
+        "-"
+       ],
+       "cum": 9,
+       "split": [
+        false,
+        false
+       ]
+      },
+      {
+       "marks": [
+        "8"
+       ],
+       "cum": null,
+       "split": [
+        true
+       ]
+      },
+      {
+       "marks": [],
+       "cum": null,
+       "split": []
+      },
+      {
+       "marks": [],
+       "cum": null,
+       "split": []
+      },
+      {
+       "marks": [],
+       "cum": null,
+       "split": []
+      },
+      {
+       "marks": [],
+       "cum": null,
+       "split": []
+      },
+      {
+       "marks": [],
+       "cum": null,
+       "split": []
+      },
+      {
+       "marks": [],
+       "cum": null,
+       "split": []
+      },
+      {
+       "marks": [],
+       "cum": null,
+       "split": []
+      },
+      {
+       "marks": [],
+       "cum": null,
+       "split": []
+      }
+     ],
+     "total": 9
+    },
+    {
+     "balls": [
+      7,
+      3
+     ],
+     "frames": [
+      {
+       "marks": [
+        "7",
+        "/"
+       ],
+       "cum": null,
+       "split": [
+        false,
+        false
+       ]
+      },
+      {
+       "marks": [],
+       "cum": null,
+       "split": []
+      },
+      {
+       "marks": [],
+       "cum": null,
+       "split": []
+      },
+      {
+       "marks": [],
+       "cum": null,
+       "split": []
+      },
+      {
+       "marks": [],
+       "cum": null,
+       "split": []
+      },
+      {
+       "marks": [],
+       "cum": null,
+       "split": []
+      },
+      {
+       "marks": [],
+       "cum": null,
+       "split": []
+      },
+      {
+       "marks": [],
+       "cum": null,
+       "split": []
+      },
+      {
+       "marks": [],
+       "cum": null,
+       "split": []
+      },
+      {
+       "marks": [],
+       "cum": null,
+       "split": []
+      }
+     ],
+     "total": 0
+    }
+   ],
+   "totals": [
+    0,
+    9,
+    0
+   ],
+   "lastThrow": {
+    "id": 97,
+    "n": 7,
+    "seat": 1,
+    "frame": 2,
+    "ball": 1,
+    "at": 1790406241422,
+    "playMs": 5813,
+    "kind": "timeout",
+    "rolloff": false,
+    "fresh": true,
+    "release": {
+     "x": 0,
+     "angle": 0,
+     "speed": 6200,
+     "spin": 0
+    },
+    "down": [
+     1,
+     2,
+     3,
+     5,
+     6,
+     7,
+     8,
+     9
+    ],
+    "standing": [
+     [
+      4,
+      -304,
+      18815,
+      4528
+     ],
+     [
+      10,
+      457,
+      19079,
+      1824
+     ]
+    ],
+    "count": 8,
+    "call": "split",
+    "streak": 0,
+    "leave": "4-10",
+    "split": true,
+    "replay": false,
+    "gutter": false,
+    "bumpers": false,
+    "mph": 13.9,
+    "entryBoard": 20,
+    "entryAngle": 0
+   },
+   "rolloff": null,
+   "winners": [],
+   "winner": -1,
+   "chat": [],
+   "voice": []
+  },
+  "mySeat": 0
+ }
+}

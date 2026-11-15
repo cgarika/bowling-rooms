@@ -1,0 +1,25 @@
+{
+  "name": "bowling-rooms",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Self-hosted multiplayer ten-pin bowling for GameNest. Share a room code, bowl 3, 5 or 10 frames with 2 to 8 players. The server owns the pins: a release goes in, a deterministic 3D delivery comes out.",
+  "main": "server.js",
+  "license": "UNLICENSED",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "start": "node server.js",
+    "test": "node test/run.js && node test/moderation.js && node test/plus_wallet.js && node test/roomcode.js",
+    "test:full": "FULL=1 node test/run.js"
+  },
+  "dependencies": {
+    "@dimforge/rapier3d-deterministic-compat": "0.21.0",
+    "express": "^5.2.1",
+    "socket.io": "^4.8.3",
+    "socket.io-parser": "~4.2.7"
+  },
+  "devDependencies": {
+    "socket.io-client": "^4.8.3"
+  }
+}

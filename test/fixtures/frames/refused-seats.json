@@ -1,0 +1,8 @@
+{
+ "event": "refused",
+ "payload": {
+  "code": "seats",
+  "msg": "Add a bot or invite a friend.",
+  "to": "start"
+ }
+}

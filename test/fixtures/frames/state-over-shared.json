@@ -1,0 +1,378 @@
+{
+ "event": "state",
+ "payload": {
+  "room": {
+   "code": "XXXHDK",
+   "status": "over",
+   "v": 23,
+   "now": 1790406222742,
+   "log": "Cy and Di share the win!",
+   "players": [
+    {
+     "name": "Cy",
+     "avatar": "😎",
+     "color": "#ff5757",
+     "bot": false,
+     "skill": null,
+     "botControlled": false,
+     "left": false,
+     "connected": true,
+     "bumpers": false,
+     "lefty": false,
+     "ball": "solid",
+     "timeouts": 0
+    },
+    {
+     "name": "Di",
+     "avatar": "🤓",
+     "color": "#33d17a",
+     "bot": false,
+     "skill": null,
+     "botControlled": false,
+     "left": false,
+     "connected": true,
+     "bumpers": false,
+     "lefty": false,
+     "ball": "swirl",
+     "timeouts": 0
+    }
+   ],
+   "hostSeat": 0,
+   "minPlayers": 2,
+   "maxPlayers": 8,
+   "frames": 3,
+   "settings": {
+    "frames": 3,
+    "rolloff": true,
+    "suggested": 10,
+    "touched": true
+   },
+   "frame": 3,
+   "ball": 1,
+   "turn": 1,
+   "fresh": true,
+   "rack": [
+    [
+     1,
+     0,
+     18288,
+     0
+    ],
+    [
+     2,
+     -152,
+     18552,
+     0
+    ],
+    [
+     3,
+     152,
+     18552,
+     0
+    ],
+    [
+     4,
+     -305,
+     18816,
+     0
+    ],
+    [
+     5,
+     0,
+     18816,
+     0
+    ],
+    [
+     6,
+     305,
+     18816,
+     0
+    ],
+    [
+     7,
+     -457,
+     19080,
+     0
+    ],
+    [
+     8,
+     -152,
+     19080,
+     0
+    ],
+    [
+     9,
+     152,
+     19080,
+     0
+    ],
+    [
+     10,
+     457,
+     19080,
+     0
+    ]
+   ],
+   "throwSeq": 18,
+   "pending": false,
+   "readyAt": 1790406222741,
+   "turnEndsAt": null,
+   "sheets": [
+    {
+     "balls": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+     ],
+     "frames": [
+      {
+       "marks": [
+        "-",
+        "-"
+       ],
+       "cum": 0,
+       "split": [
+        false,
+        false
+       ]
+      },
+      {
+       "marks": [
+        "-",
+        "-"
+       ],
+       "cum": 0,
+       "split": [
+        false,
+        false
+       ]
+      },
+      {
+       "marks": [
+        "-",
+        "-"
+       ],
+       "cum": 0,
+       "split": [
+        false,
+        false
+       ]
+      }
+     ],
+     "total": 0
+    },
+    {
+     "balls": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+     ],
+     "frames": [
+      {
+       "marks": [
+        "-",
+        "-"
+       ],
+       "cum": 0,
+       "split": [
+        false,
+        false
+       ]
+      },
+      {
+       "marks": [
+        "-",
+        "-"
+       ],
+       "cum": 0,
+       "split": [
+        false,
+        false
+       ]
+      },
+      {
+       "marks": [
+        "-",
+        "-"
+       ],
+       "cum": 0,
+       "split": [
+        false,
+        false
+       ]
+      }
+     ],
+     "total": 0
+    }
+   ],
+   "totals": [
+    0,
+    0
+   ],
+   "lastThrow": {
+    "id": 90,
+    "n": 18,
+    "seat": 1,
+    "frame": null,
+    "ball": 1,
+    "at": 1790406222742,
+    "playMs": 3048,
+    "kind": "human",
+    "rolloff": true,
+    "fresh": true,
+    "release": {
+     "x": 4000,
+     "angle": 3500,
+     "speed": 7000,
+     "spin": 0
+    },
+    "down": [],
+    "standing": [
+     [
+      1,
+      1,
+      18288,
+      3596
+     ],
+     [
+      2,
+      -152,
+      18552,
+      1696
+     ],
+     [
+      3,
+      152,
+      18552,
+      2015
+     ],
+     [
+      4,
+      -304,
+      18815,
+      1933
+     ],
+     [
+      5,
+      1,
+      18817,
+      3668
+     ],
+     [
+      6,
+      306,
+      18816,
+      408
+     ],
+     [
+      7,
+      -456,
+      19080,
+      2642
+     ],
+     [
+      8,
+      -153,
+      19079,
+      6075
+     ],
+     [
+      9,
+      151,
+      19078,
+      1190
+     ],
+     [
+      10,
+      456,
+      19079,
+      2589
+     ]
+    ],
+    "count": 0,
+    "call": "gutter",
+    "streak": 0,
+    "leave": "1-2-3-4-5-6-7-8-9-10",
+    "split": false,
+    "replay": false,
+    "gutter": true,
+    "bumpers": false,
+    "mph": 15.7,
+    "entryBoard": null,
+    "entryAngle": null
+   },
+   "rolloff": {
+    "round": 3,
+    "seats": [
+     0,
+     1
+    ],
+    "balls": [
+     [
+      0,
+      0
+     ],
+     [
+      1,
+      0
+     ]
+    ],
+    "history": [
+     {
+      "round": 1,
+      "balls": [
+       [
+        0,
+        0
+       ],
+       [
+        1,
+        0
+       ]
+      ]
+     },
+     {
+      "round": 2,
+      "balls": [
+       [
+        0,
+        0
+       ],
+       [
+        1,
+        0
+       ]
+      ]
+     },
+     {
+      "round": 3,
+      "balls": [
+       [
+        0,
+        0
+       ],
+       [
+        1,
+        0
+       ]
+      ]
+     }
+    ]
+   },
+   "winners": [
+    0,
+    1
+   ],
+   "winner": 0,
+   "chat": [],
+   "voice": []
+  },
+  "mySeat": 0
+ }
+}
