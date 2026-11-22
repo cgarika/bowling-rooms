@@ -21,6 +21,8 @@ const T = require("./track");
 const SIM = require("./sim");
 const { Pool, defaultSize } = require("./pool");
 const Reactions = require("./reactions");   // the cartoon stickers (2026-10-15)
+const Voice = require("./voice");   // voice chat in private rooms, EOS (2026-11-18; the file every server shares)
+const Played = require("./friendsplayed");   // Friends: "last played with" when a game ends (2026-11-19; the file every server shares)
 const Quick = require("./quickmatch");   // quick play and ranked (2026-10-24)
 const Plus = require("./plus");   // GameNest Plus: the room's flag and each player's look (2026-10-16)
 const Gear = require("./gear");   // the gear table and what it does (gear.js; gear step 4, 2026-11-10)
@@ -240,6 +242,8 @@ function publicRoom(room) {
     chat: room.chat, voice: room.voice ? Array.from(room.voice) : [],
     ...Reactions.view(room),   // 2026-10-15: reactionsOn and the last reactions
     ...Quick.view(room),   // quick play and ranked (2026-10-24)
+    ...Voice.view(room),   // voice chat (2026-11-18): gnVoice { on, peers }
+    ...Played.view(room, "bowling"),   // Friends (2026-11-19): reports a finished game once; adds no field
   };
 }
 function sendState(code) {
@@ -626,6 +630,7 @@ io.on("connection", (socket) => {
   const currentRoom = () => rooms.get(socket.data.roomCode);
   const me = () => { const r = currentRoom(); return r ? r.players.find((p) => p.id === socket.data.playerId) : null; };
   const obj = (x) => (x && typeof x === "object" ? x : {});
+  Voice.wire({ on: (ev, fn) => on(ev, (payload) => fn(obj(payload))), room: currentRoom, me: () => socket.data.playerId, bump: bump, emit: (ev, d) => socket.emit(ev, d) });   // voice chat in private rooms (2026-11-18)
   Reactions.wire({ on: (ev, fn) => on(ev, (payload) => fn(obj(payload))), room: currentRoom, me: () => socket.data.playerId,
     isHost: (r) => r.host === socket.data.playerId, bump });
 
